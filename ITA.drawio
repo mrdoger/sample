@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T09:12:25.837Z" agent="5.0 (Windows)" etag="E3l4HvgplG-Nu15j5Et5" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T09:53:12.983Z" agent="5.0 (Windows)" etag="wEisMIw1PpPVw0SM-eY8" version="15.5.7" type="github">
   <diagram id="0d7cefc2-ccd6-e077-73ed-a8e48b0cddf6" name="Page-1">
-    <mxGraphModel dx="813" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,6 +29,24 @@
           <mxGeometry x="0.1949" y="2" relative="1" as="geometry">
             <mxPoint x="10" y="12" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6p8xgRxyjpAE4VFZ0hzJ-170" value="Web Application&lt;br&gt;Firewall" style="aspect=fixed;html=1;points=[];align=right;image;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;labelBackgroundColor=none;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="6p8xgRxyjpAE4VFZ0hzJ-107">
+          <mxGeometry x="130" y="180" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6p8xgRxyjpAE4VFZ0hzJ-171" value="Web Application&lt;br&gt;Firewall" style="aspect=fixed;html=1;points=[];align=left;image;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;labelBackgroundColor=none;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="6p8xgRxyjpAE4VFZ0hzJ-107">
+          <mxGeometry x="255" y="180" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6p8xgRxyjpAE4VFZ0hzJ-177" value="" style="group" vertex="1" connectable="0" parent="6p8xgRxyjpAE4VFZ0hzJ-107">
+          <mxGeometry x="140" y="270" width="192" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6p8xgRxyjpAE4VFZ0hzJ-174" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=firewall;fillColor=#FAFAFA;strokeColor=#005073;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="6p8xgRxyjpAE4VFZ0hzJ-177">
+          <mxGeometry width="64" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6p8xgRxyjpAE4VFZ0hzJ-175" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=firewall;fillColor=#FAFAFA;strokeColor=#005073;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="6p8xgRxyjpAE4VFZ0hzJ-177">
+          <mxGeometry x="64" width="64" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6p8xgRxyjpAE4VFZ0hzJ-176" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=firewall;fillColor=#FAFAFA;strokeColor=#005073;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="6p8xgRxyjpAE4VFZ0hzJ-177">
+          <mxGeometry x="128" width="64" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6p8xgRxyjpAE4VFZ0hzJ-108" value="Cloud Quorum" style="shape=mxgraph.ibm.box;prType=region;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="10" width="290" height="130" as="geometry" />
